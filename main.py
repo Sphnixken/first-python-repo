@@ -26,3 +26,5 @@ if main_menu == "START":
 else:
     time.sleep(2)
     print("????? pls make sure u enter the spelling correctly")
+    print("yo")
+
